@@ -1,4 +1,4 @@
-![tailwindcss logo](img\tailwindwss-logo.png)
+![tailwindcss logo](img/tailwindwss-logo.png)
 
 # Tailwind Cheat Sheet
 
